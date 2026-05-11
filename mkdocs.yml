@@ -1,6 +1,7 @@
 site_name: MKDOCS
 nav:
   - MKDOCS: index.md
+  - Dicas: dicas.md
 
 theme:
   name: material
